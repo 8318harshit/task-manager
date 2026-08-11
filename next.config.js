@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  basePath: '/task-manager',
-  assetPrefix: '/task-manager/',
-}
+const nextConfig = {}
 
 module.exports = nextConfig
